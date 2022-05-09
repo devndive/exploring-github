@@ -1,4 +1,4 @@
 def add_numbers(a, b):
-    return a + a
+    return a + b
 
 print(add_numbers(1, 2))
